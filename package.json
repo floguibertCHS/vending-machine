@@ -1,0 +1,17 @@
+{
+  "name": "vending_machine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "data.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "mocha": "^3.4.2",
+    "moment": "^2.18.1",
+    "superagent": "^3.5.2"
+  }
+}
